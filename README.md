@@ -1,6 +1,6 @@
 # computeBricks Technical
 ## Jaisal Friedman
-## XR Trading && Euler Project 215
+## Euler Project 215
 
 ## Compilation & Environment
 1. c++11 (specified in make file)
